@@ -1,0 +1,35 @@
+.footerlinks {
+	color: #ffffff;
+	text-decoration:none !important;
+}
+
+.footerlinks:hover {
+	color: #ffd800;
+}
+
+#footer1 {
+	background: #212529;
+}
+
+#footer2 {
+	background: #0c0b0b;
+}
+
+a {
+	text-decoration:none;
+}
+
+.lableerror {
+	color:red;
+}
+
+select :not(select[multiple="multiple"]) {
+	width: 100%;
+	height: 35px;
+	border: 1px solid #ced4da;
+	border-radius: 3px;
+}
+select option {
+	border:0px!important;
+	border-radius:0px!important;
+}
