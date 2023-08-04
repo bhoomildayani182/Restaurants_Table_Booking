@@ -1,7 +1,9 @@
 # book-my-table
-this project is developed by
+This project is developed by
 
+           Bhoomil Dayani
            Harsh Nagani
+           
 
 
-this project is build to overcome solution of unmanaged table booking system in restaurent
+This project is build to overcome solution of unmanaged table booking system in restaurent.
